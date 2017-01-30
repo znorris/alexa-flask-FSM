@@ -1,0 +1,9 @@
+# Each state name may have a NAME_retry or NAME_reply
+awake_retry: "That is not possible. Try saying, go to bed."
+awake_reply: "I am awake, I swear. Yawn. The current state is {{ state }}"
+
+asleep_retry: "That is not possible. Try saying, wake up."
+asleep_reply: "ZZzzz. The current state is {{ state }}"
+
+begging_retry: "Say yes or no."
+begging_reply: "But do I have to? The Current state is {{ state }}. Begging from, {{ begging_from }}."

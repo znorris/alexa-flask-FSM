@@ -1,0 +1,6 @@
+State state
+State get state
+GoToBed go to bed
+GoToBed go to sleep
+GetUp wake up
+GetUp get up

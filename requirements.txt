@@ -1,0 +1,2 @@
+Flask-Ask==0.8.7
+transitions==0.4.3
